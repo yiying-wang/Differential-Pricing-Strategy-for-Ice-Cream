@@ -1,4 +1,4 @@
-# Differential-Pricing-Strategy-for-Ice-Cream
+# Differential Pricing Strategy for Ice Cream
 ## Executive Summary
 An ice cream company wants to boost its margin profits through formulating
 differential pricing strategies and carrying out effective coupon promotion activities. To
@@ -12,13 +12,16 @@ obtainable by simply building regression models.
 #### Major findings of our analysis are as follows:
 (1) Product features such as flavor and size have significant impacts on customers’
 willingness to pay
+
 (2) Demographic features of households such as income, region and household
 size have significant impacts on customers’ willingness to pay
+
 (3) Positive interaction exists between coupon and central region regarding
 impacts on ‘price per unit’
-Recommendations are given as follows:
+#### Recommendations are given as follows:
 (1) Apply differential pricing strategies to different flavors of ice cream, different
 regions and customers with different levels of income
+
 (2) Collect panel data and conduct Difference-in-Difference analysis to analyze
 causal effects of coupon to different customer groups, through which they can
 improve the effectiveness of promotion activities
@@ -128,9 +131,12 @@ Demographic variables such as income, region and household size show statistical
 significant impact on customers’ willingness to pay.
 #### Based on the findings, we provide four recommendations:
 (1) set higher prices for popular flavors of ice cream, for example, coffee flavor
+
 (2) set higher prices in regions where customers’ willingness to pay is higher, for
 example, east region
+
 (3) give out more coupons to customers with lower income, for example, students
+
 (4) collect panel data and carry out Difference-In-Difference analysis to study
 coupon’s causal effect on customers of different age groups or region groups and give
 out coupons to groups with higher positive effect
